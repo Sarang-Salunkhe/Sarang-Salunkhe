@@ -1,10 +1,20 @@
-# 👋 Hi, I'm Sarang!
+# 👋 Hi, I'm Sarang Salunkhe!
 
 Welcome to my GitHub profile! I'm a passionate creator who blends logic and artistry—whether it's through code, canvas, or cutting-edge AI.
+
+---
+
+## 👨‍💻 Current Status
+🎓 I'm a Diploma Student at [PCET's Pimpri Chichwad Polytechnic, Pune](https://www.pcpolytechnic.com/)
+💻 Stream: Computer Enginerring
+
+---
 
 ## 🎨 Hobbies & Interests
 - **Painting & Sketching** – I love expressing ideas visually, whether it's abstract art or detailed pencil work.
 - **Programming** – From building robust systems to experimenting with AI, coding is my playground.
+
+---
 
 ## 💻 Technical Skills
 - **Languages**:  
@@ -14,6 +24,8 @@ Welcome to my GitHub profile! I'm a passionate creator who blends logic and arti
   - Backend development and database integration  
   - Scripting, debugging, and performance optimization  
   - Building extensible, plugin-based architectures  
+
+---
 
 ## 🚀 Projects
 - **AryaBot** – A smart Discord bot powered by Gemini API, designed for intelligent conversations, async-safe operations, and seamless Replit deployment.
