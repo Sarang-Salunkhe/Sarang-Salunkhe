@@ -2,8 +2,6 @@
 
 Welcome to my GitHub profile! I'm a passionate creator who blends logic and artistry—whether it's through code, canvas, or cutting-edge AI.
 
----
-
 ## 👨‍💻 Current Status
 🎓 I'm a Diploma Student at [PCET's Pimpri Chichwad Polytechnic, Pune](https://www.pcpolytechnic.com/)
 💻 Stream: Computer Enginerring
