@@ -37,4 +37,4 @@ Welcome to my GitHub profile! I'm a passionate creator who blends logic and arti
 
 📫 **Let's connect**  
 Feel free to explore my repositories, drop a star ⭐, or reach out if you're working on something exciting—I’m always up for a good collaboration or creative challenge!
-[Visit My Portfolio](https://sarang-terminal.netlify.app/)
+[Visit My Portfolio : Sarang's Terminal](https://sarang-terminal.netlify.app/)
