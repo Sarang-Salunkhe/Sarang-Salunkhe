@@ -1,41 +1,85 @@
-# 👋 Hi, I'm Sarang Salunkhe!
+<h1 align="center">Hi 👋, I'm Sarang Salunkhe</h1>
+<h3 align="center">💻 Computer Engineering Student | 🎨 Creator | 🤖 AI Enthusiast</h3>
 
-Welcome to my GitHub profile! I'm a passionate creator who blends logic and artistry—whether it's through code, canvas, or cutting-edge AI.
-
-## 👨‍💻 Current Status
-🎓 I'm a Diploma Student at [PCET's Pimpri Chichwad Polytechnic, Pune](https://www.pcpolytechnic.com/)
-💻 Stream: Computer Enginerring
-
----
-
-## 🎨 Hobbies & Interests
-- **Painting & Sketching** – I love expressing ideas visually, whether it's abstract art or detailed pencil work.
-- **Programming** – From building robust systems to experimenting with AI, coding is my playground.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Passionate+Developer;AI+Explorer;Creative+Thinker;Building+Cool+Stuff+🚀" />
+</p>
 
 ---
 
-## 💻 Technical Skills
-- **Languages**:  
-  `C` | `C++` | `C#` | `Python` | `Java (Core & Advanced)` | `Oracle SQL`
-- **Expertise**:
-  - Object-oriented programming & design patterns  
-  - Backend development and database integration  
-  - Scripting, debugging, and performance optimization  
-  - Building extensible, plugin-based architectures  
+## 👨‍💻 About Me
+🎓 Diploma Student at **PCET's Pimpri Chinchwad Polytechnic, Pune**  
+💻 Computer Engineering  
+🎯 Focused on building impactful projects using **AI + Web + Systems**
 
 ---
 
-## 🚀 Projects
-- **AryaBot** – A smart Discord bot powered by Gemini API, designed for intelligent conversations, async-safe operations, and seamless Replit deployment.
-- **Photopix Website** – A dynamic photo-sharing platform built to showcase creativity and community. Designed with a clean UI and efficient backend to support image uploads, user profiles, and interactive galleries.
+## 💡 Dev Quote of the Day
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+</p>
 
-## 🤖 AI Projects
-- **AryaBot** – My flagship AI assistant, actively deployed and evolving.
-- **Upcoming AI Projects** – I'm currently architecting new AI-driven tools focused on intelligent automation, device integration, and conversational UX. Stay tuned for more!
-- **Ahar AI (Nutrition Assistant bot in Aharix App)** - 
+## 😂 Dev Joke of the Day
+<p align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
+</p>
 
 ---
 
-📫 **Let's connect**  
-Feel free to explore my repositories, drop a star ⭐, or reach out if you're working on something exciting—I’m always up for a good collaboration or creative challenge!
-[Visit My Portfolio : Sarang's Terminal](https://sarang-terminal.netlify.app/)
+## 🧠 Skills & Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,sqlite,git,github,html,css,js,django" />
+</p>
+
+---
+
+## 📊 GitHub Stats & Analysis
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AryaBot  
+Smart AI-powered Discord bot with async-safe architecture and Gemini API integration.
+
+### 📸 Photopix  
+Dynamic photo-sharing platform with clean UI, animations, and efficient backend support.
+
+---
+
+## ⚡ What I'm Working On
+- 🚀 AI-based automation tools  
+- 🌐 Advanced web applications  
+- 🎯 Improving UI/UX with animations  
+
+---
+
+## 🎨 Interests
+- 🎨 Sketching & Painting  
+- 💻 Programming & AI Exploration  
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://sarang-terminal.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Sarang%20Terminal-black?style=for-the-badge&logo=vercel" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐️ If you like my work, consider giving a star!
+</p>
