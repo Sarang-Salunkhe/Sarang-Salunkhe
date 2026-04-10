@@ -32,8 +32,8 @@
 ## 📊 GitHub Stats & Analysis
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sarang-Salunkhe&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarang-Salunkhe&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarang-Salunkhe&show_icons=true&theme=tokyonight&count_private=true" />
+  <img src="https://streak-stats.demolab.com?user=Sarang-Salunkhe&theme=tokyonight" />
 </p>
 
 <p align="center">
