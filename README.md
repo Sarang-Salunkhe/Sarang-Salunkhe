@@ -19,17 +19,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </p>
 
-## 😂 Dev Joke of the Day
-<p align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" />
-</p>
-
 ---
 
 ## 🧠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,sqlite,git,github,html,css,js,django" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,oraclesql,git,github,html,css,js,django" />
 </p>
 
 ---
