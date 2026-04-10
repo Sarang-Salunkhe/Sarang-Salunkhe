@@ -24,7 +24,7 @@
 ## 🧠 Skills & Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,oraclesql,git,github,html,css,js,django" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,oracle,git,github,html,css,js,django" />
 </p>
 
 ---
