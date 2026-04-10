@@ -32,6 +32,7 @@ Welcome to my GitHub profile! I'm a passionate creator who blends logic and arti
 ## 🤖 AI Projects
 - **AryaBot** – My flagship AI assistant, actively deployed and evolving.
 - **Upcoming AI Projects** – I'm currently architecting new AI-driven tools focused on intelligent automation, device integration, and conversational UX. Stay tuned for more!
+- **Ahar AI (Nutrition Assistant bot in Aharix App)** - 
 
 ---
 
