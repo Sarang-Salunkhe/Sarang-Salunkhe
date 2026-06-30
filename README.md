@@ -5,12 +5,12 @@ Computer Engineering Student • AI Developer • Full Stack Developer • Andro
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+Applications;Full+Stack+Developer;Android+App+Developer;CAD+Customization+Explorer;Always+Learning+Something+New+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Building+AI+Applications;Android+Developer;Full+Stack+Developer;CAD+Customization+Explorer;Always+Learning+Something+New+🚀" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sarang-Salunkhe&label=Profile+Views&color=0e75b6&style=flat"/>
-<img src="https://img.shields.io/github/followers/Sarang-Salunkhe?style=social"/>
+  <img src="https://komarev.com/ghpvc/?username=Sarang-Salunkhe&label=Profile+Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Sarang-Salunkhe?style=social" />
 </p>
 
 ---
@@ -21,18 +21,18 @@ Computer Engineering Student • AI Developer • Full Stack Developer • Andro
 
 💡 Passionate about designing scalable software using **Artificial Intelligence, Android Development, Full Stack Technologies, and Modern System Design.**
 
-🚀 **Currently Building**
+## 🚀 Currently Building
 
 - 🤖 AI-powered Android Applications
 - 🌐 Full Stack Web Applications
 - ⚡ Intelligent Automation Tools
 - 🛠️ CAD Customization Solutions
 
-⚡ **Fun Fact**
+## ⚡ Fun Fact
 
-I enjoy turning ambitious ideas into real-world applications—from AI assistants and Android apps to modern web platforms.
+I enjoy turning ambitious ideas into real-world software—from AI assistants and Android applications to modern web platforms.
 
-🎯 **Goal**
+## 🎯 Goal
 
 > To build intelligent products that solve real-world problems.
 
@@ -93,7 +93,7 @@ I enjoy turning ambitious ideas into real-world applications—from AI assistant
 
 ## 🍽️ Aharix
 
-An AI-powered Android application that helps users make smarter food choices through intelligent nutritional insights. It features a modern Material 3 interface with AI integration.
+AI-powered Android application that helps users make healthier food choices using intelligent nutritional insights and AI assistance.
 
 **Tech Stack**
 
@@ -107,11 +107,13 @@ An AI-powered Android application that helps users make smarter food choices thr
 
 ## 🌱 CarbonWise
 
-An AI-powered carbon footprint calculator that helps users estimate emissions and adopt more sustainable lifestyle choices through an interactive web experience.
+AI-powered carbon footprint calculator helping users estimate emissions and make environmentally conscious decisions.
 
 **Tech Stack**
 
 `React` • `Tailwind CSS`
+
+<p>
 
 <a href="https://github.com/Sarang-Salunkhe/carbonwise-ai">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
@@ -121,45 +123,55 @@ An AI-powered carbon footprint calculator that helps users estimate emissions an
 <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
+</p>
+
 ---
 
 ## 🎥 YTGrav
 
-A full-stack YouTube downloader supporting multiple formats with a modern React interface and Django REST backend.
+Modern full-stack YouTube downloader supporting multiple formats through a React frontend and Django REST backend.
 
 **Tech Stack**
 
 `React` • `Tailwind CSS` • `Django REST API`
 
+<p>
+
 <a href="https://github.com/Sarang-Salunkhe/YTGrav">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add when deployed
+<!--
 <a href="YOUR_YTGRAV_LIVE_LINK">
 <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 -->
 
+</p>
+
 ---
 
 ## 📸 Photopix
 
-A modern photography portfolio website featuring responsive layouts, smooth navigation, and an elegant gallery experience.
+Modern photography portfolio showcasing images through a clean, responsive and elegant web experience.
 
 **Tech Stack**
 
 `HTML` • `CSS`
 
+<p>
+
 <a href="https://github.com/Sarang-Salunkhe/Photopix">
 <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<!-- Add when hosted
+<!--
 <a href="YOUR_PHOTOPIX_LIVE_LINK">
 <img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 -->
+
+</p>
 
 ---
 
@@ -178,6 +190,7 @@ A modern photography portfolio website featuring responsive layouts, smooth navi
 
 <p align="center">
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarang-Salunkhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
 <img height="170" src="https://streak-stats.demolab.com?user=Sarang-Salunkhe&theme=tokyonight&hide_border=true"/>
 </p>
 
@@ -191,6 +204,14 @@ A modern photography portfolio website featuring responsive layouts, smooth navi
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarang-Salunkhe&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Sarang-Salunkhe/Sarang-Salunkhe/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
 
 ---
@@ -212,11 +233,23 @@ A modern photography portfolio website featuring responsive layouts, smooth navi
 <p align="center">
 
 <a href="https://sarang-terminal.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Sarang%20Terminal-000?style=for-the-badge&logo=vercel"/>
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Sarang-Salunkhe">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/YOUR_USERNAME/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white"/>
 </a>
 
 </p>
@@ -227,6 +260,6 @@ A modern photography portfolio website featuring responsive layouts, smooth navi
 
 ## ⭐ Thanks for stopping by!
 
-### *"Building intelligent software, one commit at a time."*
+### *"Building intelligent software, one commit at a time."* 🚀
 
 </p>
