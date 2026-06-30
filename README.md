@@ -1,18 +1,16 @@
-<h1 align="center">
-Hi 👋, I'm Sarang Salunkhe
-</h1>
+<h1 align="center">Hi 👋, I'm Sarang Salunkhe</h1>
 
 <h3 align="center">
 Computer Engineering Student • AI Developer • Full Stack Developer • Android Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+Applications;Full+Stack+Developer;Android+App+Developer;CAD+Customization+Explorer;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=23&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Building+AI+Applications;Full+Stack+Developer;Android+App+Developer;CAD+Customization+Explorer;Always+Learning+Something+New+🚀"/>
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=Sarang-Salunkhe&label=Profile+Views&color=0e75b6&style=flat" />
-<img src="https://img.shields.io/github/followers/Sarang-Salunkhe?style=social" />
+<img src="https://komarev.com/ghpvc/?username=Sarang-Salunkhe&label=Profile+Views&color=0e75b6&style=flat"/>
+<img src="https://img.shields.io/github/followers/Sarang-Salunkhe?style=social"/>
 </p>
 
 ---
@@ -21,19 +19,21 @@ Computer Engineering Student • AI Developer • Full Stack Developer • Andro
 
 🎓 Computer Engineering Student from **Pune, India**
 
-💡 Passionate about building software that combines **AI, Web Technologies, Mobile Apps and System Design.**
+💡 Passionate about designing scalable software using **Artificial Intelligence, Android Development, Full Stack Technologies, and Modern System Design.**
 
-🚀 Currently exploring
+🚀 **Currently Building**
 
-- Artificial Intelligence
-- Android Development (Kotlin)
-- Flutter
-- Full Stack Development
-- CAD Customization
-- Computer Vision
-- Backend Architecture
+- 🤖 AI-powered Android Applications
+- 🌐 Full Stack Web Applications
+- ⚡ Intelligent Automation Tools
+- 🛠️ CAD Customization Solutions
 
-🎯 Goal:
+⚡ **Fun Fact**
+
+I enjoy turning ambitious ideas into real-world applications—from AI assistants and Android apps to modern web platforms.
+
+🎯 **Goal**
+
 > To build intelligent products that solve real-world problems.
 
 ---
@@ -48,119 +48,141 @@ Computer Engineering Student • AI Developer • Full Stack Developer • Andro
 
 # 🛠 Tech Stack
 
-### Languages
+### 💻 Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,dart,js" />
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,python,java,kotlin,dart,js"/>
 </p>
 
-### Frontend
+### 🎨 Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react"/>
 </p>
 
-### Backend & APIs
+### ⚙️ Backend & APIs
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=django,nodejs,flask"/>
+<img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### Mobile
+### 📱 Mobile
 
 <p>
-<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio" />
+<img src="https://skillicons.dev/icons?i=flutter,kotlin,androidstudio"/>
 </p>
 
-### Database
+### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+<img src="https://img.shields.io/badge/Oracle_SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools
+### 🧰 Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,figma,postman"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-### 🍽️ Aharix
-An AI-powered Android application that helps users make smarter food choices through intelligent nutritional insights. It features a modern Material 3 interface and integrates AI for personalized assistance.
+## 🍽️ Aharix
 
-**Tech Stack:** Kotlin • Material 3 • OpenAI API • Python (Ahar AI)
+An AI-powered Android application that helps users make smarter food choices through intelligent nutritional insights. It features a modern Material 3 interface with AI integration.
 
----
+**Tech Stack**
 
-### 🌱 CarbonWise
-A modern web application focused on promoting environmental awareness and sustainable living with a responsive and intuitive user interface.
+`Kotlin` • `Material 3` • `OpenAI API` • `Python (Ahar AI)`
 
-**Tech Stack:** React • Tailwind CSS
-
-<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/carbonwise-ai.git)">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
-</a>
-
-<a href="[https://your-carbonwise.vercel.app](https://carbonwise-theta.vercel.app/)">
-    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
+<a href="https://github.com/Sarang-Salunkhe/Aharix">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
 
 ---
 
-### 🎥 YTGrav
-A modern YouTube downloader with a sleek interface, high-quality downloads, and a fast backend for a seamless downloading experience.
+## 🌱 CarbonWise
 
-**Tech Stack:** React • Tailwind CSS • Django REST API
+An AI-powered carbon footprint calculator that helps users estimate emissions and adopt more sustainable lifestyle choices through an interactive web experience.
 
-<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/YTGrav.git)">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+**Tech Stack**
+
+`React` • `Tailwind CSS`
+
+<a href="https://github.com/Sarang-Salunkhe/carbonwise-ai">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://carbonwise-theta.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 ---
 
-### 📸 Photopix
-A clean and responsive photography portfolio website showcasing images with a modern, minimal design and smooth user experience.
+## 🎥 YTGrav
 
-**Tech Stack:** HTML • CSS
+A full-stack YouTube downloader supporting multiple formats with a modern React interface and Django REST backend.
 
-<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/Photopix.git)">
-    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+**Tech Stack**
+
+`React` • `Tailwind CSS` • `Django REST API`
+
+<a href="https://github.com/Sarang-Salunkhe/YTGrav">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
 </a>
+
+<!-- Add when deployed
+<a href="YOUR_YTGRAV_LIVE_LINK">
+<img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+-->
+
+---
+
+## 📸 Photopix
+
+A modern photography portfolio website featuring responsive layouts, smooth navigation, and an elegant gallery experience.
+
+**Tech Stack**
+
+`HTML` • `CSS`
+
+<a href="https://github.com/Sarang-Salunkhe/Photopix">
+<img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<!-- Add when hosted
+<a href="YOUR_PHOTOPIX_LIVE_LINK">
+<img src="https://img.shields.io/badge/Visit%20Website-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+-->
 
 ---
 
 # 🌱 Currently Learning
 
-- Artificial Intelligence
-- Large Language Models
-- Android Development
-- Flutter
-- Computer Vision
-- System Design
-- Backend Development
+- 🤖 Large Language Models (LLMs)
+- 🔍 Retrieval-Augmented Generation (RAG)
+- 📱 Flutter
+- 👁️ Computer Vision
+- 🏗️ System Design
+- ☁️ Cloud Deployment
 
 ---
 
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sarang-Salunkhe&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarang-Salunkhe&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=Sarang-Salunkhe&theme=tokyonight&hide_border=true"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sarang-Salunkhe&theme=tokyonight&column=7"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarang-Salunkhe&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -168,9 +190,7 @@ A clean and responsive photography portfolio website showcasing images with a mo
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarang-Salunkhe&theme=tokyo-night"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sarang-Salunkhe&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -205,8 +225,8 @@ A clean and responsive photography portfolio website showcasing images with a mo
 
 <p align="center">
 
-### ⭐ Thanks for visiting my profile!
+## ⭐ Thanks for stopping by!
 
-*"Code. Learn. Build. Repeat."*
+### *"Building intelligent software, one commit at a time."*
 
 </p>
