@@ -3,7 +3,7 @@ Hi 👋, I'm Sarang Salunkhe
 </h1>
 
 <h3 align="center">
-Computer Engineering Student • AI Developer • Full Stack Developer • CAD Enthusiast
+Computer Engineering Student • AI Developer • Full Stack Developer • Android Developer
 </h3>
 
 <p align="center">
@@ -60,10 +60,11 @@ Computer Engineering Student • AI Developer • Full Stack Developer • CAD E
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,react" />
 </p>
 
-### Backend
+### Backend & APIs
 
 <p>
-<img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
+  <img src="https://skillicons.dev/icons?i=django,nodejs,flask" />
+  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
 ### Mobile
@@ -75,70 +76,58 @@ Computer Engineering Student • AI Developer • Full Stack Developer • CAD E
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+  <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+  <img src="https://img.shields.io/badge/Oracle%20SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
 ### Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma,postman" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,figma" />
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🤖 AryaBot
+### 🍽️ Aharix
+An AI-powered Android application that helps users make smarter food choices through intelligent nutritional insights. It features a modern Material 3 interface and integrates AI for personalized assistance.
 
-AI-powered Discord Bot with:
-
-- Gemini Integration
-- Async Architecture
-- Modular Commands
-- Intelligent Conversations
+**Tech Stack:** Kotlin • Material 3 • OpenAI API • Python (Ahar AI)
 
 ---
 
-## 📸 Photopix
+### 🌱 CarbonWise
+A modern web application focused on promoting environmental awareness and sustainable living with a responsive and intuitive user interface.
 
-Modern photography platform featuring
+**Tech Stack:** React • Tailwind CSS
 
-- Responsive Design
-- Smooth Animations
-- Django Backend
-- Interactive Gallery
-
----
-
-## 🎥 YTGrav
-
-Modern YouTube Downloader
-
-- Beautiful UI
-- Multiple Formats
-- High Resolution Downloads
-- Fast Backend
+<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/carbonwise-ai.git)">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
-## 🛒 NeoCart
+### 🎥 YTGrav
+A modern YouTube downloader with a sleek interface, high-quality downloads, and a fast backend for a seamless downloading experience.
 
-Smart Grocery Store Application
+**Tech Stack:** React • Tailwind CSS • Django REST API
 
-- Flutter
-- Firebase
-- Modern UI
-- Online Shopping Experience
+<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/YTGrav.git)">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
-## 🚀 Bharat Bhraman
+### 📸 Photopix
+A clean and responsive photography portfolio website showcasing images with a modern, minimal design and smooth user experience.
 
-Tourism Platform for India
+**Tech Stack:** HTML • CSS
 
-- Interactive UI
-- Historical Information
-- Modern Web Experience
+<a href="[YOUR_GITHUB_REPO](https://github.com/Sarang-Salunkhe/Photopix.git)">
+    <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
+</a>
 
 ---
 
