@@ -107,6 +107,10 @@ A modern web application focused on promoting environmental awareness and sustai
     <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github">
 </a>
 
+<a href="[https://your-carbonwise.vercel.app](https://carbonwise-theta.vercel.app/)">
+    <img src="https://img.shields.io/badge/Live%20Demo-000000?style=for-the-badge&logo=vercel&logoColor=white">
+</a>
+
 ---
 
 ### 🎥 YTGrav
@@ -146,17 +150,7 @@ A clean and responsive photography portfolio website showcasing images with a mo
 # 📊 GitHub Analytics
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Sarang-Salunkhe&show_icons=true&theme=tokyonight&count_private=true"/>
-
-<img height="170" src="https://streak-stats.demolab.com?user=Sarang-Salunkhe&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarang-Salunkhe&layout=compact&theme=tokyonight"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarang-Salunkhe&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 </p>
 
 ---
